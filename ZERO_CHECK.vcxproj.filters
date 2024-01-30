@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Сергей Белоусов\Desktop\YandexDisk\Компьютер LAPTOP-8TG8MDF6\WORK\SELF\Programming\Netology\UnitTest2\CMakeFiles\441f3340488244b76b7492eae959030c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BB713D6-18CE-3DFD-8A96-EB41613A15F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

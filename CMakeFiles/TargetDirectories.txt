@@ -1,0 +1,6 @@
+C:/Users/Сергей Белоусов/Desktop/YandexDisk/Компьютер LAPTOP-8TG8MDF6/WORK/SELF/Programming/Netology/UnitTest2/CMakeFiles/UnitTests1.dir
+C:/Users/Сергей Белоусов/Desktop/YandexDisk/Компьютер LAPTOP-8TG8MDF6/WORK/SELF/Programming/Netology/UnitTest2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Сергей Белоусов/Desktop/YandexDisk/Компьютер LAPTOP-8TG8MDF6/WORK/SELF/Programming/Netology/UnitTest2/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Сергей Белоусов/Desktop/YandexDisk/Компьютер LAPTOP-8TG8MDF6/WORK/SELF/Programming/Netology/UnitTest2/Catch2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Сергей Белоусов/Desktop/YandexDisk/Компьютер LAPTOP-8TG8MDF6/WORK/SELF/Programming/Netology/UnitTest2/Catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/Сергей Белоусов/Desktop/YandexDisk/Компьютер LAPTOP-8TG8MDF6/WORK/SELF/Programming/Netology/UnitTest2/Catch2-build/src/CMakeFiles/Catch2WithMain.dir

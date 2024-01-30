@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Сергей Белоусов\Desktop\YandexDisk\Компьютер LAPTOP-8TG8MDF6\WORK\SELF\Programming\Netology\UnitTest2\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Сергей Белоусов\Desktop\YandexDisk\Компьютер LAPTOP-8TG8MDF6\WORK\SELF\Programming\Netology\UnitTest2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{990C7C24-D8C3-39AD-B78E-889FAFE6E559}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
